@@ -1,8 +1,9 @@
 <<<<<<< HEAD
 # atelier_git
 Je suis à l'atelier
-Je suis au cours de git
+Je suis en cours de git
 je vais à l'école
+Je suis à Néxa digial
 =======
 # \##atelier\_git
 
